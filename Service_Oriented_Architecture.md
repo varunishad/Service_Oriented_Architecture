@@ -39,27 +39,27 @@
 
   #### Functional aspects
 
-    * **Transport:** It transports the service requests from the service consumer to the service provider and service responses from the service provider to the service consumer.
+    **Transport:** It transports the service requests from the service consumer to the service provider and service responses from the service provider to the service consumer.
 
-    * **Service Communication Protocol:** It allows the service provider and the service consumer to communicate with each other.
+    **Service Communication Protocol:** It allows the service provider and the service consumer to communicate with each other.
 
-    * **Service Description:** It describes the service and data required to invoke it.
+    **Service Description:** It describes the service and data required to invoke it.
 
-    * **Service:** It is an actual service.
+    **Service:** It is an actual service.
 
-    * **Business Process:** It represents the group of services which are called in a particular sequence associated with particular rules to meet the business requirements.
+    **Business Process:** It represents the group of services which are called in a particular sequence associated with particular rules to meet the business requirements.
 
-    * **Service Registry:** It contains the description of data which is used by service providers to publish their services.
+    **Service Registry:** It contains the description of data which is used by service providers to publish their services.
 
   #### Quality of Service aspects
 
-    * **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
+    **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
 
-    * **Security:** It represents the set of protocols required for identification and authorization.
+    **Security:** It represents the set of protocols required for identification and authorization.
 
-    * **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
+    **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
 
-    * **Management:** It defines the set of attributes used to manage the services.
+    **Management:** It defines the set of attributes used to manage the services.
 
 
 ### Implementation
