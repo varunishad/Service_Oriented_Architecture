@@ -18,9 +18,11 @@
 
 * * *
 
-### Service-Oriented Architecture Patterns
+### Service-Oriented Architecture Patterns  
 
-  ![SOA patterns](https://www.researchgate.net/profile/Khaled-Elleithy/publication/314288067/figure/fig3/AS:469626577526784@1488979109147/Service-Oriented-Architecture-SOA-15.png)
+
+  ![SOA patterns](https://www.researchgate.net/profile/Khaled-Elleithy/publication/314288067/figure/fig3/AS:469626577526784@1488979109147/Service-Oriented-Architecture-SOA-15.png)  
+  
 
   There are three roles in every Service-Oriented Architecture pattern:
     - service provider
