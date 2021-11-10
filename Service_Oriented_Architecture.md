@@ -2,9 +2,9 @@
 
 ## Service-Oriented Architecture (SOA)
 
-  A Service Oriented Architecture (SOA) is design pattern in software design where application components provides services to other components through a communication protocol over a network. The concept of SOA is independent of any other programming language or platform.
+  A Service-Oriented Architecture (SOA) is a design pattern in software design where application components provide services to other components through a communication protocol over a network. The concept of SOA is independent of any other programming language or platform.
 
-  As in **objcet oriented programming (OOP)** we are concerned with the **object**, similarly in Service Oriented Architecture we are concerned with **services**.
+  As in **object-oriented programming (OOP)** we are concerned with the **object**, similarly, in Service Oriented Architecture we are concerned with **services**.
 
 ### Core values of Service-Oriented Architecture
 
@@ -27,7 +27,7 @@
     - service broker, service registry
     - service requester/consumer
 
-  - The service provider works parallely with the service registry, questioning why and how the services are being offered such as security, availability, what to charge, etc.
+  - The service provider works simultaneously with the service registry, questioning why and how the services are being offered such as security, availability, what to charge, etc.
 
   - The service broker accumulates information regarding the services which are available to those requesting it. The scope of the service broker is determined by whoever implements it.
 
@@ -51,17 +51,17 @@
 
   - **Service:** It is an actual service.
 
-  - **Business Process:** It represents the group of services which are called in a particular sequence associated with particular rules to meet the business requirements.
+  - **Business Process:** It represents the group of services that are called in a particular sequence associated with particular rules to meet the business requirements.
 
-  - **Service Registry:** It contains the description of data which is used by service providers to publish their services.
+  - **Service Registry:** It contains the description of data that is used by service providers to publish their services.
 
   #### Quality of Service aspects
 
-  - **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
+  - **Policy:** It represents the set of protocols according to which a service provider makes and provides the services to consumers.
 
   - **Security:** It represents the set of protocols required for identification and authorization.
 
-  - **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
+  - **Transaction:** It provides the surety of consistent results. This means, if we use the group of services to complete a business function, either all must be completed or none of them would be completed.
 
   - **Management:** It defines the set of attributes used to manage the services.
 
@@ -71,7 +71,7 @@
 
   As SOA is independent of platforms and technologies, a wide variety of products can be used depending on the end goals of the system to implement the architecture. SOA implementations can use one or more protocols and can also use any file system tool to communicate data. The key to a successful implementation is to use independent services that perform tasks in a standardized way, without needing information about the calling application, and vice versa.
 
-  Generally the SOA is implemented with web services like **Simple Object Access Protocol (SOAP)** and **Web Services Description Language (WSDL)**.
+  Generally, the SOA is implemented with web services like **Simple Object Access Protocol (SOAP)** and **Web Services Description Language (WSDL)**.
 
   #### Some applications of Service-Oriented Architecture
 
@@ -79,7 +79,7 @@
 
   * Healthcare organizations use SOA to improve healthcare delivery.
 
-  * Musuems use SOA to create a virtualize storage system for their information and content.
+  * Museums use SOA to create a virtualized storage system for their information and content.
 
   * Web services business use SOA  
     - to create reusable code
@@ -90,7 +90,7 @@
 ### Benefits of Service-Oriented Architecture
 
   * High availability
-  * Increased realibility
+  * Increased reliability
   * Service Reusability
   * Highly Scalable
   * Easily maintained
