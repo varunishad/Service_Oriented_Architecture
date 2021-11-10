@@ -16,6 +16,8 @@
   * Location-transparent
   * Shared services
 
+* * *
+
 ### Service-Oriented Architecture Patterns
 
   ![SOA patterns](https://www.researchgate.net/profile/Khaled-Elleithy/publication/314288067/figure/fig3/AS:469626577526784@1488979109147/Service-Oriented-Architecture-SOA-15.png)
@@ -30,6 +32,8 @@
   - The service broker accumulates information regarding the services which are available to those requesting it. The scope of the service broker is determined by whoever implements it.
 
   - The service requester marks entries in the broker registry and then binds them to the service provider. They may or may not be able to access multiple services depending on the capability of the service requester.
+
+* * *
 
 ### Components of service-oriented architecture
 
@@ -61,6 +65,7 @@
 
   - **Management:** It defines the set of attributes used to manage the services.
 
+* * *
 
 ### Implementation
 
