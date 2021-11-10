@@ -25,11 +25,11 @@
     - service broker, service registry
     - service requester/consumer
 
-    The service provider works parallely with the service registry, questioning why and how the services are being offered such as security, availability, what to charge, etc.
+  The service provider works parallely with the service registry, questioning why and how the services are being offered such as security, availability, what to charge, etc.
 
-    The service broker accumulates information regarding the services which are available to those requesting it. The scope of the service broker is determined by whoever implements it.
+  The service broker accumulates information regarding the services which are available to those requesting it. The scope of the service broker is determined by whoever implements it.
 
-    The service requester marks entries in the broker registry and then binds them to the service provider. They may or may not be able to access multiple services depending on the capability of the service requester.
+  The service requester marks entries in the broker registry and then binds them to the service provider. They may or may not be able to access multiple services depending on the capability of the service requester.
 
 ### Components of service-oriented architecture
 
@@ -39,27 +39,27 @@
 
   #### Functional aspects
 
-    **Transport:** It transports the service requests from the service consumer to the service provider and service responses from the service provider to the service consumer.
+  **Transport:** It transports the service requests from the service consumer to the service provider and service responses from the service provider to the service consumer.
 
-    **Service Communication Protocol:** It allows the service provider and the service consumer to communicate with each other.
+  **Service Communication Protocol:** It allows the service provider and the service consumer to communicate with each other.
 
-    **Service Description:** It describes the service and data required to invoke it.
+  **Service Description:** It describes the service and data required to invoke it.
 
-    **Service:** It is an actual service.
+  **Service:** It is an actual service.
 
-    **Business Process:** It represents the group of services which are called in a particular sequence associated with particular rules to meet the business requirements.
+  **Business Process:** It represents the group of services which are called in a particular sequence associated with particular rules to meet the business requirements.
 
-    **Service Registry:** It contains the description of data which is used by service providers to publish their services.
+  **Service Registry:** It contains the description of data which is used by service providers to publish their services.
 
   #### Quality of Service aspects
 
-    **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
+  **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
 
-    **Security:** It represents the set of protocols required for identification and authorization.
+  **Security:** It represents the set of protocols required for identification and authorization.
 
-    **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
+  **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
 
-    **Management:** It defines the set of attributes used to manage the services.
+  **Management:** It defines the set of attributes used to manage the services.
 
 
 ### Implementation
@@ -70,17 +70,17 @@
 
   #### Some applications of Service-Oriented Architecture
 
-    * SOA allows devices to use GPS.
+  * SOA allows devices to use GPS.
 
-    * Healthcare organizations use SOA to improve healthcare delivery.
+  * Healthcare organizations use SOA to improve healthcare delivery.
 
-    * Musuems use SOA to create a virtualize storage system for their information and content.
+  * Musuems use SOA to create a virtualize storage system for their information and content.
 
-    * Web services business use SOA
-      - to create reusable code
-      - to promote interaction
-      - for scalability
-      - to reduce costs
+  * Web services business use SOA
+    - to create reusable code
+    - to promote interaction
+    - for scalability
+    - to reduce costs
 
 ### Benefits of Service-Oriented Architecture
 
@@ -100,13 +100,13 @@ As we can imagine, service-oriented architecture can be a hard rock to break, bu
 ### References
 
   * Youtube
-    * [Service-Oriented Architecture by Tech Cave](https://www.youtube.com/watch?v=jNiEMmoTDoE)
-    * [SOA | Software Engineering lectures by LMT](https://www.youtube.com/watch?v=A5Nom1hdJn8)
+   * [Service-Oriented Architecture by Tech Cave](https://www.youtube.com/watch?v=jNiEMmoTDoE)
+   * [SOA | Software Engineering lectures by LMT](https://www.youtube.com/watch?v=A5Nom1hdJn8)
 
   * Blogs
-    * [SOA introduction wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-    * [Service-Oriented Architecture](https://searchapparchitecture.techtarget.com/definition/service-oriented-architecture-SOA)
-    * [Service-Oriented Architecture importance and benefits](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec)
+   * [SOA introduction wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+   * [Service-Oriented Architecture](https://searchapparchitecture.techtarget.com/definition/service-oriented-architecture-SOA)
+   * [Service-Oriented Architecture importance and benefits](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec)
 
 
 
