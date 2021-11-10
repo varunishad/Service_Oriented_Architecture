@@ -53,13 +53,13 @@
 
   #### Quality of Service aspects
 
-  **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
+  * **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
 
-  **Security:** It represents the set of protocols required for identification and authorization.
+  * **Security:** It represents the set of protocols required for identification and authorization.
 
-  **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
+  * **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
 
-  **Management:** It defines the set of attributes used to manage the services.
+  * **Management:** It defines the set of attributes used to manage the services.
 
 
 ### Implementation
@@ -76,7 +76,7 @@
 
   * Musuems use SOA to create a virtualize storage system for their information and content.
 
-  * Web services business use SOA
+  * Web services business use SOA  
     - to create reusable code
     - to promote interaction
     - for scalability
@@ -100,13 +100,13 @@ As we can imagine, service-oriented architecture can be a hard rock to break, bu
 ### References
 
   * Youtube
-   * [Service-Oriented Architecture by Tech Cave](https://www.youtube.com/watch?v=jNiEMmoTDoE)
-   * [SOA | Software Engineering lectures by LMT](https://www.youtube.com/watch?v=A5Nom1hdJn8)
+    * [Service-Oriented Architecture by Tech Cave](https://www.youtube.com/watch?v=jNiEMmoTDoE)  
+    * [SOA | Software Engineering lectures by LMT](https://www.youtube.com/watch?v=A5Nom1hdJn8)
 
   * Blogs
-   * [SOA introduction wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-   * [Service-Oriented Architecture](https://searchapparchitecture.techtarget.com/definition/service-oriented-architecture-SOA)
-   * [Service-Oriented Architecture importance and benefits](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec)
+    * [SOA introduction wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)  
+    * [Service-Oriented Architecture](https://searchapparchitecture.techtarget.com/definition/service-oriented-architecture-SOA)  
+    * [Service-Oriented Architecture importance and benefits](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec)
 
 
 
