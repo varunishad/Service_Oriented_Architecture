@@ -4,7 +4,7 @@
 
   A Service Oriented Architecture (SOA) is design pattern in software design where application components provides services to other components through a communication protocol over a network. The concept of SOA is independent of any other programming language or platform.
 
-  As in **objcet oriented programming (OOP)** we a concerned with the **object**, similarly in Service Oriented Architecture we are concerned with **services**.
+  As in **objcet oriented programming (OOP)** we are concerned with the **object**, similarly in Service Oriented Architecture we are concerned with **services**.
 
 ### Core values of Service-Oriented Architecture
 
@@ -49,17 +49,17 @@
 
   - **Business Process:** It represents the group of services which are called in a particular sequence associated with particular rules to meet the business requirements.
 
-  **Service Registry:** It contains the description of data which is used by service providers to publish their services.
+  - **Service Registry:** It contains the description of data which is used by service providers to publish their services.
 
   #### Quality of Service aspects
 
-  * **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
+  - **Policy:** It represents the set of protocols according to which a service provider make and provide the services to consumers.
 
-  * **Security:** It represents the set of protocols required for identification and authorization.
+  - **Security:** It represents the set of protocols required for identification and authorization.
 
-  * **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
+  - **Transaction:** It provides the surety of consistent result. This means, if we use the group of services to complete a business function, either all must complete or none of the complete.
 
-  * **Management:** It defines the set of attributes used to manage the services.
+  - **Management:** It defines the set of attributes used to manage the services.
 
 
 ### Implementation
