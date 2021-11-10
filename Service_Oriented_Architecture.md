@@ -25,11 +25,11 @@
     - service broker, service registry
     - service requester/consumer
 
-  The service provider works parallely with the service registry, questioning why and how the services are being offered such as security, availability, what to charge, etc.
+  - The service provider works parallely with the service registry, questioning why and how the services are being offered such as security, availability, what to charge, etc.
 
-  The service broker accumulates information regarding the services which are available to those requesting it. The scope of the service broker is determined by whoever implements it.
+  - The service broker accumulates information regarding the services which are available to those requesting it. The scope of the service broker is determined by whoever implements it.
 
-  The service requester marks entries in the broker registry and then binds them to the service provider. They may or may not be able to access multiple services depending on the capability of the service requester.
+  - The service requester marks entries in the broker registry and then binds them to the service provider. They may or may not be able to access multiple services depending on the capability of the service requester.
 
 ### Components of service-oriented architecture
 
@@ -39,15 +39,15 @@
 
   #### Functional aspects
 
-  **Transport:** It transports the service requests from the service consumer to the service provider and service responses from the service provider to the service consumer.
+  - **Transport:** It transports the service requests from the service consumer to the service provider and service responses from the service provider to the service consumer.
 
-  **Service Communication Protocol:** It allows the service provider and the service consumer to communicate with each other.
+  - **Service Communication Protocol:** It allows the service provider and the service consumer to communicate with each other.
 
-  **Service Description:** It describes the service and data required to invoke it.
+  - **Service Description:** It describes the service and data required to invoke it.
 
-  **Service:** It is an actual service.
+  - **Service:** It is an actual service.
 
-  **Business Process:** It represents the group of services which are called in a particular sequence associated with particular rules to meet the business requirements.
+  - **Business Process:** It represents the group of services which are called in a particular sequence associated with particular rules to meet the business requirements.
 
   **Service Registry:** It contains the description of data which is used by service providers to publish their services.
 
